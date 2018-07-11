@@ -3,9 +3,18 @@ Here's the code for the prototype I use in my article [Building The Universal Me
 
 ![Alt Text](https://cdn-images-1.medium.com/max/1600/1*310aZWsLDnifYGKBB1_S_Q.gif)
 
+
 ## Notes:
 
-* I should have made classes... 
+* Code can be found in:
+
+```
+app.coffee
+```
+
+* I've made my own custom container and device because Framer didn't allow you to change devices a few months ago
+
+* I should have made classes to make things cleaner and quicker but it get's the job done 
 
 * One of the more obvious things is that I have essentially layered everything on top of each other instead of creating separate pages for each section of the prototype. If I remember correctly, the main reason I did that was because Framer.js utelized fixed directions of either left or right for page transitions and I wanted a seamless transition between the Main Page & Power Search pages. (As you can see, it soon became a nightmare to trigger and control the correct asset arrangements to stop the wrong pages/interactions from being viewed!)
 
