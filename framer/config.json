@@ -1,0 +1,19 @@
+{
+ "orientation": 0,
+ "updateDelay": 0.3,
+ "designModeSelected": 0,
+ "cachedDeviceHeight": 856,
+ "contentScale": 1,
+ "fullScreen": false,
+ "cachedDeviceWidth": 416,
+ "deviceType": "custom",
+ "sharedPrototype": true,
+ "propertyPanelToggleStates": {
+  "Filters": false
+ },
+ "deviceOrientation": 0,
+ "selectedHand": "",
+ "showBezel": true,
+ "foldedCodeRanges": [],
+ "deviceScale": "fit"
+}
