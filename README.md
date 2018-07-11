@@ -3,7 +3,7 @@ Here's the code for the prototype I use in my article [Building The Universal Me
 
 ![Alt Text](https://cdn-images-1.medium.com/max/1600/1*310aZWsLDnifYGKBB1_S_Q.gif)
 
-##Notes:
+## Notes:
 
 * Should have made classes... 
 
