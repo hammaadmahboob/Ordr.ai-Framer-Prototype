@@ -5,7 +5,7 @@ Here's the code for the prototype I use in my article [Building The Universal Me
 
 ## Notes:
 
-* Should have made classes... 
+* I should have made classes... 
 
 * One of the more obvious things is that I have essentially layered everything on top of each other instead of creating separate pages for each section of the prototype. If I remember correctly, the main reason I did that was because Framer.js utelized fixed directions of either left or right for page transitions and I wanted a seamless transition between the Main Page & Power Search pages. (As you can see, it soon became a nightmare to trigger and control the correct asset arrangements to stop the wrong pages/interactions from being viewed!)
 
