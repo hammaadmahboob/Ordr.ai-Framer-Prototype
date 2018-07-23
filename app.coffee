@@ -1,4 +1,11 @@
 
+# The following Code was written by Hammaad Mahboob and was released under the GNU-GPL3.0 License.
+# The Design and idea behind this code as described in this post "https://uxplanet.org/building-the-universal-menu-of-tomorrow-4c2f06635197"
+# has been released under the CC-BY SA 4.0 License. 
+
+# Please read the License.txt for more information.
+
+
 
 # Set Device background
 Screen.backgroundColor = null
