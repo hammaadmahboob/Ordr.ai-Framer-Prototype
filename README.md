@@ -6,7 +6,7 @@ Here's the code for the prototype I use in my article [Building The Universal Me
 
 ## Notes:
 
-* Code can be found in:
+* Relevant code can be found in:
 
 ```
 app.coffee
